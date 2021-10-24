@@ -1,5 +1,5 @@
-# Data-Analysis-and-Visualization
-Predicting Students’ Grades from Their Activities
+# Predicting Students’ Grades from Their Activities
+
 What students do on a daily basis throughout their academic year has an impact on their grades. 
 Their daily activities include the time they are studying,  spending time with friends, the apps they are using, the time they spend using their phones, texts, calls, etc. 
 Their mental condition also plays a significant role in their grades. 
